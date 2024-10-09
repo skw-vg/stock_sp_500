@@ -11,7 +11,7 @@ Project Steps
 ## Code
 
 File overview:
-- `market_prediction.ipynb` - a Jupyter notebook that contains all of the code.
+- `stock_predictor.ipynb` - a Jupyter notebook that contains all of the code.
 
 # Local Setup
 ## Installation
@@ -24,5 +24,5 @@ To follow this project, please install the following locally:
   - yfinance
   - scikit-learn
 
-##Data
+## Data
 We'll download all of the data during the project, using the `yfinance` package.
