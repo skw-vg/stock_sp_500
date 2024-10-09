@@ -17,7 +17,7 @@ File overview:
 ## Installation
 To follow this project, please install the following locally:
 
-- JupyerLab
+- JupyterLab
 - Python 3.8+
 - Python packages
   - pandas
